@@ -1,0 +1,33 @@
+{
+  "name": "sharewaow.com",
+  "version": "1.0.0",
+  "description": "Sharing app like ride, books and cloths etc ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharewaow/sharewaow.git"
+  },
+  "keywords": [
+    "Ride",
+    "Sharing",
+    "Books",
+    "Sharing",
+    "Cloths",
+    "Sharing"
+  ],
+  "author": "Shaista Aman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharewaow/sharewaow/issues"
+  },
+  "homepage": "https://github.com/sharewaow/sharewaow#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.0.0",
+    "nodemon": "^2.0.20"
+  }
+}
